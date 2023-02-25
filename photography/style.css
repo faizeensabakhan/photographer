@@ -1,0 +1,42 @@
+.main{
+    margin: -8px;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.images{
+    display: flex;
+    margin-top: 20px;
+}
+.left{
+    width: 50%;
+    margin: 20px;
+    margin-right: 10px;
+}
+.right{
+    width: 50%;
+    margin: 20px;
+    margin-left: 10px;
+}
+.image1{
+    width: 100%;
+    margin-bottom: 20px;
+}
+@media screen and (max-width:390px){
+    .images{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 20px;
+    }
+    .right{
+        width: 100%;
+        margin: 0px;
+    }
+    .left{
+        width: 100%;
+        margin: 0px
+    }
+}
