@@ -1,0 +1,97 @@
+.main{
+    background-color: rgb(255, 255, 255);
+    /* height: 1000px; */
+    width: 100%;
+}
+.top{
+    background-color: white;
+    height: 400px;
+
+}
+.pic{
+    background-color: white;
+    height: 60px;
+    margin-top: 100px;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+}
+.name{
+    background-color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-size: x-large;
+    height: 60px;
+    color: black;
+}
+.B1{
+   background-color: white; 
+   margin-top: 30px ;
+   padding: 5px;
+   width: 50px;
+   /* align-items: center; */
+   margin-left: 560px;
+}
+.B2{
+    margin-left: 0px;
+}
+.buttons{
+    align-items: center;
+    color: azure;
+    display: flex;
+}
+.all{
+    display: flex;
+}
+.left{
+    width: 50%;
+}
+.img1{
+    height: 400px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+.img2{
+    height: 1090px;
+    margin-left:20px;
+    margin-bottom: 20px;
+
+}
+.img3{
+    height: 320px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.img8{
+    height: 640px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.img9{
+    height: 320px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.img10{
+    height: 400px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.img11{
+    height: 320px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: pink;
+    height: 150px;
+    margin: -8px;
+    text-align: center;
+}
+.paraf{
+    font-size: 20px;
+    padding-top: 50px;
+}
